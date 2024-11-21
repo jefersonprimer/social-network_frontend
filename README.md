@@ -1,1 +1,1 @@
-# social-network-front
+# social-network-frontend
